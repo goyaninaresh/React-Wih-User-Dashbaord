@@ -1,0 +1,8 @@
+body{	background:#fff; }
+#set_user_lists{ margin-top:30px; }
+.table_header {	border-bottom: 1px solid #f1f1f1;	margin-bottom: 10px;}
+#set_user_lists table{ margin-top:10px; }
+.tbl_add_btn_handler i{ margin-right:5px; }
+.tbl_add_btn_handler{ min-width:100px; }
+.wrp_border_1_px{ border:1px solid #ccc; }
+.margin-right-10{ margin-right:10px; }
